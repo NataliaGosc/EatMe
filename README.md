@@ -2,8 +2,12 @@
 #### Aplikacji mobilna na iOS przy użyciu JavaScript. EatMe pozwala na wyszukanie restauracji, aż w czterech miastach! Sprawdź co możesz zjeść w Antwerp, Chicago, Toronto i San Francisco. Jeżeli jakaś knajpa skradła Twoje serce wrzuć ją do listy ulubionych.
 
 ## Spis treści 
+* [Technologia](#Technologie)
 * [Ilustracje](#ilustracje)
 
+## Technologia
+* Visual Code
+* React Native
 ## Ilustracje
 
 ![1](https://user-images.githubusercontent.com/83544756/153937353-a1590cdb-db67-49e9-ab26-e54d88c2600d.png)
