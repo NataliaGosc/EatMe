@@ -11,3 +11,5 @@
 ## Ilustracje
 
 ![1](https://user-images.githubusercontent.com/83544756/173193482-64df079c-e37b-4097-a686-563cb16584e1.png)
+![2](https://user-images.githubusercontent.com/83544756/173193737-3d75f22a-b92a-4731-8d72-a8bf7053f8f4.png)
+![3](https://user-images.githubusercontent.com/83544756/173193740-eed995ed-0b23-48d9-9529-3ee486e0498e.png)
