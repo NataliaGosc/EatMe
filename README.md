@@ -1,5 +1,5 @@
 # EatMe
-#### Serwis internetowy, w którym rejestrowane jest wynik testu na COVID-19 naszego pracownika.
+#### Aplikacji mobilna na iOS przy użyciu JavaScript. EatMe pozwala na wyszukanie restauracji, aż w czterech miastach! Sprawdź co możesz zjeść w Antwerp, Chicago, Toronto i San Francisco. Jeżeli jakaś knajpa skradła Twoje serce wrzuć ją do listy ulubionych.
 
 ## Spis treści 
 * [Ilustracje](#ilustracje)
